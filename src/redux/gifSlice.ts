@@ -1,5 +1,4 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { values } from 'lodash';
 import { Giphy } from '../types/giphy';
 import { RootState } from './store';
 
